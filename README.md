@@ -3,4 +3,4 @@ A possible new method for speeding up direct evolution, based on ladderpath ----
 
 The method is still under-developed, recently foucusing on estimating the viability of the method
 
-file "graph_and_variables" is for viability estimation, and is still under-developing
+file "graph_and_variables" is for viability estimation, and is still under developing
